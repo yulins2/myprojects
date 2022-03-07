@@ -11,3 +11,16 @@ Group Leader
 • Divided the collected datasets into the training sets and testing sets, established and trained models in R that eventually determine that 
   the Random Forests model was optimal with minimum mean prediction error;
 • Took charge of team building, labor division and time management to ensure the successful completion of projects.
+
+这是我关于STAT425期末项目的文件夹。
+
+从我的简历中的描述：
+
+2021/03 - 2021/05 
+课程项目：建立&选择统计和机器学习模型
+组长
+
+* 研究各国饮食营养构成和新冠疫情死亡率，通过建立并比较不同的统计和机器学习模型的方式得出结论；
+* 使用R语言来分析数据与建模，把数据分为训练集和测试集，最终选择了预测平均误差最小的（随机森林）模型；
+* 负责给组员制定时间计划、分配任务；报告中主要负责导论，部分回归模型的建立（及R代码)，和一半的结论部分；
+* 课程项目最终得到了满分的好成绩； 各个组员之间定时开会，按时按量完成任务，组织能力受到组员们的一致好评。
