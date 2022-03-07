@@ -1,1 +1,13 @@
+This is a folder for STAT 425 final project.
 
+From my Resume:
+
+03/2021 – 05/2021 
+Study on the Impacts of Diets on COVID-19 Fatality Rate 
+Group Leader
+
+• Applied machine learning and statistical methodologies, including BIC, linear regression, cross-validation, and PCA, 
+  to examine the relationship between the nutritional composition of daily diets and COVID-19 fatality rates of the residents of 170 countries;
+• Divided the collected datasets into the training sets and testing sets, established and trained models in R that eventually determine that 
+  the Random Forests model was optimal with minimum mean prediction error;
+• Took charge of team building, labor division and time management to ensure the successful completion of projects.
